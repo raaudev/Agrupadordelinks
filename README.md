@@ -1,7 +1,5 @@
 # RS Developer - Agrupador de Links
 
-![RS Developer Logo](images/profile.jpg)
-
 ## 📋 Sobre o Projeto
 
 Este é um agrupador de links responsivo desenvolvido para centralizar a presença online do RS Developer. O projeto foi criado com base no design do portfólio principal, mantendo a mesma identidade visual e experiência do usuário.
@@ -56,7 +54,9 @@ linktree/
 │   └── ...                # Outras imagens
 │
 └── index.html             # Arquivo principal
+
 🔧 Personalização
+
 Cores
 As cores principais podem ser alteradas no arquivo css/style.css modificando as variáveis CSS:
 css
@@ -65,18 +65,24 @@ css
     --secondary-color: #f50057;  /* Cor secundária (rosa) */
     /* Outras variáveis... */
 }
+
 Fontes
 O projeto utiliza a fonte Poppins do Google Fonts. Para alterar:
 Modifique o link da fonte no <head> do arquivo index.html
 Atualize a variável --font-family no arquivo CSS
+
 📱 Compatibilidade
 Chrome, Firefox, Safari, Edge (versões recentes)
 iOS 10+ e Android 5+
+
 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
 👨‍💻 Autor
 RS Developer
+
 Portfolio: https://rsdeveloper-one.vercel.app/
 GitHub: https://github.com/raaudev
 LinkedIn: https://www.linkedin.com/in/raau-dev/
+
 Desenvolvido com ❤️ por RS Developer
