@@ -59,14 +59,17 @@ linktree/
 
 ## 🔧 Personalização
 
-Cores
+## Cores
+
 As cores principais podem ser alteradas no arquivo css/style.css modificando as variáveis CSS:
+```
 css
 :root {
     --primary-color: #40E0D0;    /* Cor principal (turquesa) */
     --secondary-color: #f50057;  /* Cor secundária (rosa) */
     /* Outras variáveis... */
 }
+```
 
 ## Fontes
 O projeto utiliza a fonte Poppins do Google Fonts. Para alterar:
