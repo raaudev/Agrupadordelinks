@@ -80,9 +80,6 @@ Atualize a variável --font-family no arquivo CSS
 Chrome, Firefox, Safari, Edge (versões recentes)
 iOS 10+ e Android 5+
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
-
 ## 👨‍💻 Autor
 RS Developer
 
