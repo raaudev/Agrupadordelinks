@@ -83,8 +83,10 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ## 👨‍💻 Autor
 RS Developer
 
+```
 Portfolio: https://rsdeveloper-one.vercel.app/
 GitHub: https://github.com/raaudev
 LinkedIn: https://www.linkedin.com/in/raau-dev/
+```
 
 Desenvolvido com ❤️ por RS Developer
