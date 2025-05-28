@@ -39,7 +39,8 @@ O agrupador de links foi projetado para funcionar perfeitamente em qualquer disp
     <i class="ícone-aqui"></i>
     <span>Texto do Link</span>
 </a>
-
+```
+```
 📂 Estrutura de Arquivos
 linktree/
 │
@@ -54,8 +55,9 @@ linktree/
 │   └── ...                # Outras imagens
 │
 └── index.html             # Arquivo principal
+```
 
-##🔧 Personalização
+## 🔧 Personalização
 
 Cores
 As cores principais podem ser alteradas no arquivo css/style.css modificando as variáveis CSS:
@@ -66,19 +68,19 @@ css
     /* Outras variáveis... */
 }
 
-##Fontes
+## Fontes
 O projeto utiliza a fonte Poppins do Google Fonts. Para alterar:
 Modifique o link da fonte no <head> do arquivo index.html
 Atualize a variável --font-family no arquivo CSS
 
-##📱 Compatibilidade
+## 📱 Compatibilidade
 Chrome, Firefox, Safari, Edge (versões recentes)
 iOS 10+ e Android 5+
 
-##📄 Licença
+## 📄 Licença
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
-##👨‍💻 Autor
+## 👨‍💻 Autor
 RS Developer
 
 Portfolio: https://rsdeveloper-one.vercel.app/
